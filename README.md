@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href='https://www.linkpicture.com/view.php?img=LPic62169991d23e711584403'><img src='https://www.linkpicture.com/q/Asunabotto.jpg' type='image'></a>
+<a href='https://i.pinimg.com/originals/e9/e4/37/e9e437f6800c3f8fa49c89e39635e0b1.jpg'><img src='https://i.pinimg.com/originals/e9/e4/37/e9e437f6800c3f8fa49c89e39635e0b1.jpg' type='image'></a>
 
 
 
