@@ -13,7 +13,7 @@ export default class Command extends BaseCommand {
             category: 'dev',
             usage: `${client.config.prefix}broadcast`,
             modsOnly: true,
-            baseXp: 0
+            baseXp: 999999999999999999999999999999999999
         })
     }
 
