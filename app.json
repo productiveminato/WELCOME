@@ -11,8 +11,8 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com/ShinNouzen/Chitoge.git",
+  "website": "https://github.com/productiveminato/Chitoge#readme",
+  "repository": "https://github.com/productiveminato/Chitoge.git",
   "logo": "https://i.pinimg.com/originals/e9/e4/37/e9e437f6800c3f8fa49c89e39635e0b1.jpg",
   "success_url": "/",
   "env": {
