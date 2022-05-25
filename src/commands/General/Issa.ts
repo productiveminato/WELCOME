@@ -8,7 +8,7 @@ import { ISimplifiedMessage } from '../../typings'
 export default class Command extends BaseCommand {
     constructor(client: WAClient, handler: MessageHandler) {
         super(client, handler, {
-            command: 'issa',
+            command: 'minato',
             description: 'Displays info about issa.',
             category: 'general',
             usage: `${client.config.prefix}issa`
@@ -22,23 +22,22 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.image, {quoted:M.WAMessage,
             mimetype: Mimetype.jpeg,
-            caption: `Hey pal!🍃I'm Issa, a learner/student & an upcoming developer in the future.
+            caption: `Hey pal!🍃I'm minato, a learner/student & an upcoming developer in the future.
             
 📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
-Wa.me/254115175696
-Wa.me/16156233842
+Wa.me/917863912273
 
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
 https://github.com/Issa2001
 
 📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
-https://instagram.com/__.i.s.s.a.__
+https://instagram.com/hachiman_oreki
 
 🕸𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢;
-t.me/Issa2001
+(Error)
 
 🚀𝘿𝙞𝙨𝙘𝙤𝙧𝙙;
-｟𝖢𝗈𝗆𝗂𝗇𝗀 𝖲𝗈𝗈𝗇｠
+Namikaze_Minato#2515
 
 ⪼𝖲𝖾𝖾 𝗒𝖺𝗁 💘` }
         )
